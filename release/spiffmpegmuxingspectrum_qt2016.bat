@@ -1,0 +1,1 @@
+start spiffmpegmuxingspectrum_qt2016.exe out.mp4
